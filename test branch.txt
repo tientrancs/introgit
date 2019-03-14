@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-introgit
-=======
-test
->>>>>>> testing
+branch
